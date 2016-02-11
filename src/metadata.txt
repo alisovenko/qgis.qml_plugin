@@ -1,0 +1,11 @@
+[general]
+name=QMLPlugin
+qgisMinimumVersion=2.0
+
+description=Extended identify tool
+about=about
+version=0.1
+author=Alexander Lisovenko
+email=alexander.lisovenko@gmail.com
+
+category=Identification
